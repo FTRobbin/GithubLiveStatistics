@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java-5.1.39-bin.jar el-api.jar jasper.jar 
+ jsp-api.jar catalina.jar ecj-4.5.1.jar jasper-el.jar jaspic-api.jar t
+ omcat-api.jar tomcat-jni.jar catalina-ha.jar servlet-api.jar tomcat-d
+ bcp.jar tomcat-jdbc.jar tomcat-juli.jar tomcat-util.jar catalina-ant.
+ jar tomcat-coyote.jar websocket-api.jar tomcat-i18n-es.jar tomcat-i18
+ n-fr.jar tomcat-i18n-ja.jar annotations-api.jar catalina-tribes.jar t
+ omcat-util-scan.jar tomcat-websocket.jar catalina-storeconfig.jar gso
+ n-2.7.jar jna-4.1.0.jar httpcore-4.4.4.jar httpmime-4.5.2.jar fluent-
+ hc-4.5.2.jar httpclient-4.5.2.jar commons-codec-1.9.jar jna-platform-
+ 4.1.0.jar commons-logging-1.2.jar httpclient-win-4.5.2.jar httpclient
+ -cache-4.5.2.jar jsch-0.1.53.jar JavaEWAH-1.1.6.jar slf4j-api-1.7.21.
+ jar slf4j-simple-1.7.21.jar org.eclipse.jgit-4.4.0.201606070830-r.jar
+  commons-io-2.5.jar commons-io-2.5-javadoc.jar
+Main-Class: Main.GithubLiveStatistics
+
